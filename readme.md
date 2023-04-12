@@ -1,0 +1,4 @@
+- Blackjack number is 21.
+- jack, king and queen is number 10.
+- 1 is set to number 11
+- there is one bug to fix, `playerCredits` change only once when `Blackjack` or `out of the game` after restarting game it doesn't work.
